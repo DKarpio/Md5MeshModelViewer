@@ -5,6 +5,8 @@ I was playing Doom 3, Quake 4 and making themes for my player iRiver e10 in Adob
 Later I discovered ActionScript 3 and Object Oriented Programming... and I started learning it
 I liked it and I found out that as3 has tons of APIs for reading and opening files, parsing text, playing media files even working with 3d (rasteriser API worked on cpu, Stage3D API came out later)
 
+Used articles (http://tfc.duke.free.fr/coding/md5-specs-en.html)
+
 ## Usage
 Open md5mesh file. select textures for meshes
 RMB to rotate, MWheel to zoom
@@ -13,3 +15,5 @@ RMB to rotate, MWheel to zoom
 ![](screenshots/berserker.jpeg)
 
 ![](screenshots/macron.jpeg)
+
+## Used 
